@@ -7,4 +7,12 @@ ksdbsdfbjdshfa
 hdbfksdf
 
 jhfhfjhfiiiiiiiiii
+<<<<<<< HEAD
 I'm still cowering bla bla
+=======
+
+dnfkwjf25
+
+
+added in github
+>>>>>>> 1a20ec8700e1c6bfd0c23e95b59c7663cd53490b
